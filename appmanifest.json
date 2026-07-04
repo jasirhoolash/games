@@ -1,0 +1,17 @@
+{
+	"name": "flame fighter",
+	"short_name": "flame fighter",
+	"description": "This is a 2D patrformer game where the player incarnates a hero linked to nature in charge of protecting the nature. The player must protect the nature by collecting the water bottles and fight powerful elemental enemies",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#9effc0",
+	"icons": [
+		{
+			"src": "icons/icon image.png",
+			"sizes": "899x923",
+			"type": "image/png"
+		}
+	],
+	"screenshots": []
+}
